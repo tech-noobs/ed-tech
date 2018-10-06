@@ -30,6 +30,18 @@ dependencies {
 
     //Firebase API
     implementation 'com.google.firebase:firebase-core:16.0.4'
+    implementation 'com.google.firebase:firebase-auth:16.0.4'
+
+    //Contry Codes
+    implementation 'com.hbb20:ccp:2.1.4'
+
+    // Check for v11.4.2 or higher
+    implementation 'com.google.firebase:firebase-core:16.0.4'
+
+    // Add dependency
+    implementation 'com.crashlytics.sdk.android:crashlytics:2.9.5'
+
 }
 
 apply plugin: 'com.google.gms.google-services'
+apply plugin: 'io.fabric'

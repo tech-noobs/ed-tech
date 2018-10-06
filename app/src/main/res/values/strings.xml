@@ -6,4 +6,13 @@
     <string name="nav_header_subtitle">android.studio@android.com</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
+    <string name="company_logo">Company Logo</string>
+    <string name="company_name">Company Name</string>
+    <string name="string_phone_number">Enter Phone Number</string>
+    <string name="sign_up_icon">Sign Up Button</string>
+    <string name="continue_task">Continue</string>
+    <string name="verification_code">Verification Code</string>
+    <string name="resend_code">Resend Code</string>
+    <string name="verify">Verify</string>
+    <string name="invalid_phone_number">Invalide Phone Number</string>
 </resources>
