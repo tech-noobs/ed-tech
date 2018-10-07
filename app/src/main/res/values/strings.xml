@@ -15,4 +15,7 @@
     <string name="resend_code">Resend Code</string>
     <string name="verify">Verify</string>
     <string name="invalid_phone_number">Invalide Phone Number</string>
+    <string name="session_name">Session Name</string>
+    <string name="ask_your_doubts">Ask your doubts!</string>
+    <string name="username">username</string>
 </resources>
